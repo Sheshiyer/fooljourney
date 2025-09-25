@@ -1,0 +1,344 @@
+/* Refined Biofield Aesthetic - Sophisticated Narrative Interface */
+
+/* Subtle, meaningful animations */
+@keyframes gentle-glow {
+  0%, 100% { 
+    box-shadow: 0 0 8px rgba(0, 255, 0, 0.2);
+  }
+  50% { 
+    box-shadow: 0 0 12px rgba(0, 255, 0, 0.3);
+  }
+}
+
+@keyframes soft-fade {
+  0%, 100% { opacity: 0.7; }
+  50% { opacity: 1; }
+}
+
+@keyframes narrative-pulse {
+  0%, 100% { 
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  50% { 
+    transform: scale(1.01);
+    opacity: 1;
+  }
+}
+
+@keyframes content-reveal {
+  0% { 
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% { 
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Typography and text effects */
+.terminal-text {
+  font-family: 'Courier New', 'Monaco', 'Menlo', monospace;
+  letter-spacing: 0.3px;
+  line-height: 1.6;
+}
+
+.narrative-text {
+  color: #e0e0e0;
+  text-shadow: 0 0 2px rgba(224, 224, 224, 0.3);
+  transition: color 0.3s ease;
+}
+
+.narrative-text:hover {
+  color: #ffffff;
+  text-shadow: 0 0 4px rgba(255, 255, 255, 0.4);
+}
+
+/* Refined container styling */
+.biofield-container {
+  position: relative;
+  background: linear-gradient(135deg, 
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(10, 20, 10, 0.8) 50%,
+    rgba(0, 0, 0, 0.85) 100%);
+  border: 1px solid rgba(0, 255, 0, 0.3);
+  border-radius: 8px;
+  padding: 20px;
+  backdrop-filter: blur(2px);
+  transition: all 0.4s ease;
+}
+
+.biofield-container:hover {
+  border-color: rgba(0, 255, 0, 0.5);
+  background: linear-gradient(135deg, 
+    rgba(0, 0, 0, 0.9) 0%,
+    rgba(15, 25, 15, 0.85) 50%,
+    rgba(0, 0, 0, 0.9) 100%);
+}
+
+/* Subtle grid overlay for structure */
+.neural-grid {
+  position: relative;
+}
+
+.neural-grid::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    linear-gradient(rgba(0, 255, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 255, 0, 0.02) 1px, transparent 1px);
+  background-size: 30px 30px;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+/* Refined quantum field effect */
+.quantum-field {
+  position: relative;
+  background: radial-gradient(circle at center, 
+    rgba(0, 255, 255, 0.02) 0%,
+    rgba(255, 0, 255, 0.01) 70%,
+    transparent 100%);
+}
+
+/* Sophisticated holographic text */
+.holographic {
+  background: linear-gradient(90deg, 
+    #00cccc 0%,
+    #cc00cc 50%,
+    #00cccc 100%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: holographic-shift 8s ease-in-out infinite;
+}
+
+@keyframes holographic-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Refined borders */
+.cyber-border {
+  border: 1px solid rgba(0, 255, 0, 0.4);
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+
+.cyber-border:hover {
+  border-color: rgba(0, 255, 0, 0.6);
+}
+
+/* Energy field with subtle animation */
+.energy-field {
+  animation: gentle-glow 4s ease-in-out infinite;
+  transition: all 0.3s ease;
+}
+
+.energy-field:hover {
+  animation-duration: 2s;
+}
+
+/* Secret text styling */
+.biofield-secret {
+  position: relative;
+  padding: 2px 6px;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.biofield-secret.interactive {
+  background: rgba(255, 0, 255, 0.1);
+  border: 1px solid rgba(255, 0, 255, 0.3);
+  color: #ff88ff;
+}
+
+.biofield-secret.interactive:hover {
+  background: rgba(255, 0, 255, 0.2);
+  border-color: rgba(255, 0, 255, 0.5);
+  color: #ffaaff;
+  transform: scale(1.02);
+}
+
+.biofield-secret.discovered {
+  background: rgba(0, 255, 0, 0.1);
+  border: 1px solid rgba(0, 255, 0, 0.3);
+  color: #88ff88;
+}
+
+/* Quote styling */
+.biofield-quote {
+  position: relative;
+  margin: 16px 0;
+  padding: 16px 20px;
+  background: rgba(0, 100, 100, 0.08);
+  border-left: 4px solid rgba(0, 255, 255, 0.4);
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  animation: content-reveal 0.6s ease-out;
+}
+
+.quote-marker {
+  position: absolute;
+  left: -12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(0, 255, 255, 0.6);
+  font-size: 18px;
+}
+
+.quote-content {
+  color: #cceeee;
+  line-height: 1.7;
+}
+
+/* Mathematical equation styling */
+.biofield-equation {
+  margin: 20px 0;
+  padding: 16px;
+  background: rgba(0, 0, 50, 0.1);
+  border: 1px solid rgba(100, 100, 255, 0.2);
+  border-radius: 6px;
+  text-align: center;
+  animation: content-reveal 0.8s ease-out;
+}
+
+.equation-content {
+  font-family: 'Courier New', 'Monaco', 'Menlo', monospace;
+  font-size: 16px;
+  color: #ddddff;
+  line-height: 1.8;
+}
+
+/* Mathematical symbols with refined styling */
+.math-fraction {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 4px;
+  vertical-align: middle;
+}
+
+.math-fraction .numerator {
+  font-size: 0.9em;
+  color: #ffdd88;
+  padding-bottom: 2px;
+}
+
+.math-fraction .denominator {
+  font-size: 0.9em;
+  color: #ffaa66;
+  padding-top: 2px;
+  border-top: 1px solid #ffcc77;
+}
+
+.math-sqrt {
+  color: #ff88dd;
+  font-weight: bold;
+}
+
+.math-radicand {
+  border-top: 1px solid #ff88dd;
+  padding-top: 2px;
+  margin-left: 2px;
+}
+
+.greek-letter {
+  color: #dd88ff;
+  font-weight: 500;
+  font-size: 1.05em;
+}
+
+.math-symbol {
+  color: #88ffaa;
+  font-weight: 500;
+  margin: 0 2px;
+}
+
+.quantum-symbol {
+  color: #ffff88;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+.quantum-ket, .quantum-bra, .quantum-braket {
+  color: #ffaa88;
+  font-weight: 500;
+  background: rgba(255, 170, 136, 0.08);
+  padding: 1px 4px;
+  border-radius: 2px;
+  border: 1px solid rgba(255, 170, 136, 0.2);
+  margin: 0 1px;
+}
+
+/* Status and interaction indicators */
+.status-active::before {
+  content: '●';
+  position: absolute;
+  top: -3px;
+  right: -3px;
+  color: #88ff88;
+  font-size: 10px;
+  animation: soft-fade 2s ease-in-out infinite;
+}
+
+/* Paragraph styling */
+.biofield-paragraph {
+  margin: 16px 0;
+  padding: 12px 0;
+  color: #e0e0e0;
+  line-height: 1.7;
+  animation: content-reveal 0.5s ease-out;
+}
+
+.biofield-paragraph:first-child {
+  margin-top: 0;
+}
+
+.biofield-paragraph:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .biofield-container {
+    padding: 16px;
+    margin: 8px 0;
+  }
+  
+  .biofield-quote {
+    padding: 12px 16px;
+    margin: 12px 0;
+  }
+  
+  .biofield-equation {
+    padding: 12px;
+    margin: 16px 0;
+  }
+  
+  .equation-content {
+    font-size: 14px;
+  }
+  
+  .neural-grid::after {
+    background-size: 25px 25px;
+  }
+}
+
+/* Focus states for accessibility */
+.biofield-secret:focus {
+  outline: 2px solid rgba(0, 255, 0, 0.5);
+  outline-offset: 2px;
+}
+
+/* Smooth transitions for all interactive elements */
+* {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease, opacity 0.3s ease;
+}
