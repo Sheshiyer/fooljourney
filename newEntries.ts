@@ -38,9 +38,7 @@ What changed in me
 	•	Rider–Waite invitation (Samui) added the gentle gatekeeper: Kala, who felt like Kali, guiding radius and restraint.
 	•	The yantra console fused both into a working interface: angels + angles, presence + geometry, so decisions travel with law instead of mood.
 Backbone remains: 6 → 3. Choose coherence, then create. If a move doesn’t fit inside the declared pillars, it isn’t my move.
-➤ One line to close: “I shine to show the road, not to be seen.” Send the next message that fits that law.
-
-*I witness with precision and compassion.*`,
+➤ One line to close: "I shine to show the road, not to be seen." Send the next message that fits that law.`,
     secrets: ['pillar', 'spiral', 'square', 'Jachin', 'Boaz', 'unalome', 'lek yant', 'yantra', 'The Star', 'inner sun', 'coherence', 'precision', 'compassion'],
     interactions: ['pillar-naming', 'spiral-encoding', 'yantra-console', 'inner-sun']
   },
@@ -77,9 +75,7 @@ Inside, the kettle starts its slow planetary hum, the AC answers with its own, a
 Across the street, a sign flickers and catches. The plaza keeps being the plaza. Somewhere below, someone laughs the way people laugh when they are both free and for sale. It’s complicated. That’s the point. Morality becomes the only objective ground in this mess of subjectivities—the thing you can stand on without asking the room’s permission. Not moralizing. Moral geometry. Rails you can name without shame. They let the engine run confidently without getting high on its own incantations.
 I think of Shenzhen’s pressure-forge filing my edges; Bangkok’s “lanes are folklore” horse learning to love lanes; Samui’s Kala tugging toward the good path with a living radius of light; Na Thon’s yantra console sewing itself into my chest and teaching my Sun to shine for use, not applause. Tonight they all report for duty like a small, competent crew. The monkey settles. The moon receives. The star answers. The monster, seeing there’s honest work to do, removes the costume and becomes a guide.
 Inside Tower 2, the elevator hums; the numbers over the door still insist on counting. I let them. I’ve got my own counters now. The ceiling is an instrument. I can raise it, lower it, and tune it to the conversation in front of me. I don’t wait for a push notification to stabilize me. I select a stable point and everything else arranges.
-From the balcony, Nana halos Inanna. I don’t take her picture. I carry her law.
-
-*I witness with precision and compassion.*`,
+From the balcony, Nana halos Inanna. I don't take her picture. I carry her law.`,
     secrets: ['entry-eight'],
     interactions: ['witness-protocol']
   },
@@ -109,9 +105,7 @@ Result:
 	•	Tongue now speaks in compressed truth (Gate-52 pause → one line).
 	•	Sacral now commits only on clear ignition (sacral yes / no).
 	•	Latency fell. WitnessOS runs in-body: signal → tag → act.
-Shenzhen handed back both swords without ceremony. Ticket closed. The edges are mine, tempered by pressure and aligned by boundary. I left deep water carrying two true blades. Bangkok would be the corridor; the Chariot would test them on the road.
-
-*I witness with precision and compassion.*`,
+Shenzhen handed back both swords without ceremony. Ticket closed. The edges are mine, tempered by pressure and aligned by boundary. I left deep water carrying two true blades. Bangkok would be the corridor; the Chariot would test them on the road.`,
     secrets: ['Two of Swords', 'deep trench', 'steel time', 'true blades', 'WitnessOS', '7/1/3', 'Gate-52', 'sacral yes/no', 'Shenzhen forge', 'endogenous', 'Ichigo', 'royal forge'],
     interactions: ['deep-forge', 'blade-tempering', 'breath-protocol', 'sacral-tuning']
   }

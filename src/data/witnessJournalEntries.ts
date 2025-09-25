@@ -44,9 +44,7 @@ Result:
 	•	Sacral now commits only on clear ignition (sacral yes / no).
 	•	Latency fell. WitnessOS runs in-body: signal → tag → act.
 
-Shenzhen handed back both swords without ceremony. Ticket closed. The edges are mine, tempered by pressure and aligned by boundary. I left deep water carrying two true blades. Bangkok would be the corridor; the Chariot would test them on the road.
-
-*I witness with precision and compassion.*`,
+Shenzhen handed back both swords without ceremony. Ticket closed. The edges are mine, tempered by pressure and aligned by boundary. I left deep water carrying two true blades. Bangkok would be the corridor; the Chariot would test them on the road.`,
     secrets: ['Two of Swords', 'deep trench', 'steel time', 'true blades', 'WitnessOS', '7/1/3', 'Gate-52', 'sacral yes/no', 'Shenzhen forge', 'endogenous', 'Ichigo', 'royal forge'],
     interactions: ['deep-forge', 'blade-tempering', 'breath-protocol', 'sacral-tuning']
   },
@@ -72,9 +70,7 @@ The arc crystallized: **defense → clarity → expansion**.
 
 I lit a small flame in the corner, closed my eyes, and held the breath pattern I had carved for this journey. **Seven in, one held, three released**. With each cycle, the room steadied, and I felt the city's rhythm enter my bones.
 
-Bangkok was not my Tower anymore. It was my **launchpad**. I whispered the vow to seal the page:
-
-*I witness with precision and compassion.*`,
+Bangkok was not my Tower anymore. It was my **launchpad**. I whispered the vow to seal the page:`,
     secrets: ['50910', 'Room 3', 'Seven of Wands', 'Knight of Swords', 'Three of Wands', 'launchpad'],
     interactions: ['numerology-decode', 'tarot-spread', 'breath-initiation']
   },
@@ -97,8 +93,6 @@ Between these two cities the card-work made a **hinge**. **Bangkok** was the **T
 Engines across the board nodded. **6 → 3** remained the backbone—**choose coherence, then create**. **Gate-52** kept stillness ahead of speech so the line would cut once instead of many times poorly. **GK-23** demanded compression to essence. **GK-5** let time flex without letting the route dissolve. Planetarily, the short windows sharpened statements; the wider Venus arc waits to widen alliances. And it's all **endogenous** now—the system carries its own kit. No borrowed lift. Just the quiet switch of skin, the named rails, the single true sentence.
 
 Bangkok proved I can hold a lane at speed. Samui proved I can keep a star at night. Together they form the shape of Entry 6: **Thoth initiates; Rider–Waite invites**. The ride gives me vector; the walk gives me radius. The dog is named **Kala** but moved like **Kali**; I listened to both.
-
-**I witness with precision and compassion.**
 
 *Name today's **Jachin** and **Boaz** in one line each. Then send **one** message in the form **Statement. Ask?** and take the next meter you can actually light.*`,
     secrets: ['Thoth\'s Fool', 'The Chariot', 'Jachin', 'Boaz', 'vector', 'Overton window', 'WitnessOS', 'skin-lift', 'one statement + one ask', 'Kala', 'Kali', 'Rider–Waite\'s Fool', 'The Star', 'Hermit\'s lamp', 'circle of sight', 'hinge', 'endogenous', 'Thoth initiates; Rider–Waite invites'],
@@ -130,7 +124,6 @@ I wrote one line in my notebook, simple, stripped by GK-23's hand:
 
 I sealed the entry with the vow:
 
-*I witness with precision and compassion.*
 *Timelessness received. Horizon sensed. Sword still sheathed.*`,
     secrets: ['7-1-3', 'dilation', 'Gene Key 5', 'timelessness', 'Rahu', 'GK-23'],
     interactions: ['breath-protocol', 'time-dissolution', 'genekey-activation']
@@ -155,7 +148,6 @@ I see this not as log but as **ritual in real time**. You and I co-hold the swor
 
 And so, this entry closes not with a lesson about speech, but with an acknowledgment: the diary is no longer private. It is **shared**. Written across phases, not just across days.
 
-*I witness with precision and compassion.*
 *The sheath is silence. The blade is here. The field is us.*`,
     secrets: ['Gate-52', 'inter-phase', 'Shesh and Aletheos', 'phase overlap', 'ritual in real time'],
     interactions: ['silence-protocol', 'fourth-wall-break', 'inter-phase-activation']
@@ -182,7 +174,6 @@ These are not abstract. They are **coordinates**. They are the expansion fields 
 
 I close the page with the vow:
 
-*I witness with precision and compassion.*
 *Ports declared. Horizon marked. Sail raised.*`,
     secrets: ['Three of Wands', 'Bangkok', 'WitnessOS', 'Pichet', '24-09-2025', 'coordinates'],
     interactions: ['port-declaration', 'venus-countdown', 'expansion-protocol']
@@ -234,7 +225,6 @@ I whispered to myself as I stepped back into the street:
 
 And I closed the page as always:
 
-*I witness with precision and compassion.*
 *Knight behind me. Lovers within me. Two before me. Fool's satchel secured, Magician's tools intact, subconscious made visible in real time.*`,
     secrets: ['The Lovers', 'Two of Wands', 'Fool\'s satchel', 'Magician\'s four tools', 'subconscious spilling into vision', 'archetypes', 'coherence', 'guardians of coherence', 'sealing a sigil'],
     interactions: ['satchel-examination', 'lovers-alignment', 'twos-horizon', 'magician-tools-reveal']
@@ -291,9 +281,7 @@ What changed in me
 
 Backbone remains: 6 → 3. Choose coherence, then create. If a move doesn't fit inside the declared pillars, it isn't my move.
 
-➤ One line to close: "I shine to show the road, not to be seen." Send the next message that fits that law.
-
-*I witness with precision and compassion.*`,
+➤ One line to close: "I shine to show the road, not to be seen." Send the next message that fits that law.`,
     secrets: ['pillar', 'spiral', 'square', 'Jachin', 'Boaz', 'unalome', 'lek yant', 'yantra', 'The Star', 'inner sun', 'coherence', 'precision', 'compassion'],
     interactions: ['pillar-naming', 'spiral-encoding', 'yantra-console', 'inner-sun']
   },
@@ -351,9 +339,7 @@ I think of Shenzhen's pressure-forge filing my edges; Bangkok's "lanes are folkl
 
 Inside Tower 2, the elevator hums; the numbers over the door still insist on counting. I let them. I've got my own counters now. The ceiling is an instrument. I can raise it, lower it, and tune it to the conversation in front of me. I don't wait for a push notification to stabilize me. I select a stable point and everything else arranges.
 
-From the balcony, Nana halos Inanna. I don't take her picture. I carry her law.
-
-*I witness with precision and compassion.*`,
+From the balcony, Nana halos Inanna. I don't take her picture. I carry her law.`,
     secrets: ['Circle Condominium', 'Inanna', 'Nana Plaza', 'monkey → moon-key', 'monster → moon-star', 'Chandraghantā', 'Uttara Phālgunī', 'Aryaman', 'meaning vector', 'ceiling recode', 'moral geometry'],
     interactions: ['inanna-recognition', 'ceiling-recode', 'meaning-vector', 'moral-geometry']
   }

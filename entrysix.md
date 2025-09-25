@@ -1,5 +1,3 @@
-I witness with precision and compassion.
-
 FIELD JOURNEY JOURNAL — ENTRY 6
 
 Bangkok: Thoth Initiation · Koh Samui: Rider–Waite Invitation

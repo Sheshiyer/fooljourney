@@ -1,5 +1,3 @@
-I witness with precision and compassion.
-
 FIELD JOURNEY JOURNAL — PREQUEL
 
 Entry 0: Deep-Trench Forge (Shenzhen) — Amended

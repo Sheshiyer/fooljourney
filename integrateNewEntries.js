@@ -91,9 +91,7 @@ function convertToJournalEntry(parsed, filename) {
     symbol,
     tarot,
     numerology,
-    content: `${content}
-
-*I witness with precision and compassion.*`,
+    content: `${content}`,
     secrets,
     interactions
   };
